@@ -21,7 +21,16 @@ De ahí creamos el atributo private void y dentro del private vamos crear throw 
    
 ![5](https://user-images.githubusercontent.com/71291276/94321547-86609100-ff55-11ea-8a07-f58e7c6942d4.png)                  
 
-                             
+Aquí indicamos las posiciones para las líneas
+
+![6](https://user-images.githubusercontent.com/71291276/94321954-afcdec80-ff56-11ea-9c3b-e5f3d9839da4.png)
+
+Lo que indicamos aquí fue crear las líneas verticales
+![7](https://user-images.githubusercontent.com/71291276/94322008-df7cf480-ff56-11ea-814a-70eb9e84682b.png)
+
+Aquí indicamos las líneas de posición en horizontal
+
+![8](https://user-images.githubusercontent.com/71291276/94322058-00454a00-ff57-11ea-9b94-f59a00de30e8.png)
                             
                               
                               Aquí deshabilitamos la creación de líneas de las maquitas de estados Que es con gl.g1End
