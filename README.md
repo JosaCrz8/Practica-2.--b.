@@ -17,30 +17,12 @@ De ahí creamos el atributo private void y dentro del private vamos crear throw 
 ![Captura de pantalla (8)](https://user-images.githubusercontent.com/71291276/94321516-5b763d00-ff55-11ea-8a21-1c4e9f2aafb2.png)
 
 
+   Aquí indicamos el tamaño en pixeles del grosor de la líneas
+   
+![5](https://user-images.githubusercontent.com/71291276/94321547-86609100-ff55-11ea-8a07-f58e7c6942d4.png)                  
 
-                             Aquí indicamos el tamaño en pixeles del grosor de la líneas
                              
-                             ![5](https://user-images.githubusercontent.com/71291276/94321547-86609100-ff55-11ea-8a07-f58e7c6942d4.png)
-                             
-                             
-                             Aquí indicamos las posiciones para las líneas
-                             
-                             
-                             ![6](https://user-images.githubusercontent.com/71291276/94320885-ba3ab700-ff53-11ea-8e15-872617515385.png)
-                             
-                             
-                             
-                             Lo que indicamos aquí fue crear las líneas verticales 
-                             
-                             
-                             ![7](https://user-images.githubusercontent.com/71291276/94320834-92e3ea00-ff53-11ea-87da-430f95121fc2.png)
-                             
-                             
-                              Aquí indicamos las líneas de posición en horizontal
-                              
-                              
-                              ![8](https://user-images.githubusercontent.com/71291276/94320809-7d6ec000-ff53-11ea-9e01-3a078c738b1f.png)
-                              
+                            
                               
                               Aquí deshabilitamos la creación de líneas de las maquitas de estados Que es con gl.g1End
 Esto establece los parámetros para las proyecciones
